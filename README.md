@@ -6,7 +6,7 @@ Trabalho Prático 3 da matéria de Orientação a Objetos da UnB/FGA
 
 Cainã Valença de Freitas/github.com/freitas/180014412
 
-Samuel Victor/????/?????
+Samuel Victor Oliveira Lima/https://github.com/samvctr/190059001
 
 ## Objetivos
 
